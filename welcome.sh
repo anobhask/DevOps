@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "Welcoe DevOps"
+echo "Welcome DevOps"
